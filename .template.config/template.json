@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Freelance Daring",
+  "classifications": [ "Common", "ASP Net Core", "C#8" ],
+  "identity": "SampleApi.Identity",
+  "name": "Api Server using Identity",
+  "shortName": "sampleapiidentity",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
